@@ -1,1 +1,0 @@
-# pitneybowes-shipping-api-nodejs test
