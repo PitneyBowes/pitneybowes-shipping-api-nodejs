@@ -1,0 +1,12 @@
+# ShippingApi.Trackable
+
+## Enum
+
+
+* `TRACKABLE` (value: `"TRACKABLE"`)
+
+* `NON_TRACKABLE` (value: `"NON_TRACKABLE"`)
+
+* `REQUIRES_TRACKABLE_SPECIAL_SERVICE` (value: `"REQUIRES_TRACKABLE_SPECIAL_SERVICE"`)
+
+
